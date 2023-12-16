@@ -5,6 +5,6 @@ Application de E-commerce basée sur les micro services :
 4. Customer-service
 5. Inventory Service
 6. Order Service
-7*. Consul Config (Billing Service)
-8*. Vault (Billing Service)
-9*. Frontend Web avec Angular
+7. Consul Config (en cours)
+8. Vault (en cours)
+9. Frontend Web avec Angular (en cours)
